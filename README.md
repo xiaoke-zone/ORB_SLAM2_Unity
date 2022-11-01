@@ -1,5 +1,5 @@
 
-## ORB_SLAM2 Unity
+## ORB_SLAM2 Unity stereo
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0sJTb0Xm9ss/0.jpg)](https://www.youtube.com/watch?v=0sJTb0Xm9ss)
 
